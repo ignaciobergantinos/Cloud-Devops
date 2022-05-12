@@ -2,7 +2,15 @@
 
 ![Cloud Challenge Resume drawio (1)](https://user-images.githubusercontent.com/91348491/168185594-11a1b4d6-1b23-477a-90d4-fc153d309884.png)
 
-## Steps
+## Explanation
+
+
+
+
+
+
+
+## Instructions
 1. Certification
 Your resume needs to have the AWS Cloud Practitioner certification on it. This is an introductory certification that orients you on the industry-leading AWS cloud – if you have a more advanced AWS cert, that’s fine but not expected. You can sit this exam online for $100 USD. A Cloud Guru offers exam prep resources.
 
