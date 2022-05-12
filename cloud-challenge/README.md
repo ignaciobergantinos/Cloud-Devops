@@ -1,5 +1,7 @@
 # The Cloud Resume Challenge - AWS
 
+![Cloud Challenge Resume drawio](https://user-images.githubusercontent.com/91348491/168185288-61391cf5-b147-4e28-b0c9-a40b5213e6c0.png)
+
 
 
 ## Steps
