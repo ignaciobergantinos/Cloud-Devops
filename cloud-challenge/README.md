@@ -1,8 +1,6 @@
 # The Cloud Resume Challenge - AWS
 
-![Cloud Challenge Resume drawio](https://user-images.githubusercontent.com/91348491/168185288-61391cf5-b147-4e28-b0c9-a40b5213e6c0.png)
-
-
+![Cloud Challenge Resume drawio (1)](https://user-images.githubusercontent.com/91348491/168185594-11a1b4d6-1b23-477a-90d4-fc153d309884.png)
 
 ## Steps
 1. Certification
